@@ -1,0 +1,33 @@
+/* 
+    Name	: base.css
+    Author	: brian cohn
+*/
+
+.clear{
+	clear:both;
+}
+
+ul{
+	background-color: red;
+	height: 40px;
+}
+
+ul li{
+	float: left;
+	list-style-type: none;
+	padding: 10px;
+}
+
+ul li a{
+	color: #fff;
+}
+
+img{
+	width: 100%;
+}
+
+footer {
+	height: 30px;
+	background-color: #ccc;
+	padding: 20px 10px 10px;
+}
