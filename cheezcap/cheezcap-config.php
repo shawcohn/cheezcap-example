@@ -9,7 +9,7 @@ $cap = new CheezCap( array(
 		'css files to include in the head',
 		'Include one entry per line, paths can be relative or absolute. Each path can be followed by a "handle", "version", and dependencies seperated by commas. example: "my-custom.css,my-custom-handle,1.0,some-other-css-file-handle".',
 		'text_css_head',
-		'',
+		'unsemantic-grid-responsive.css',
 		true
 		),
 		new CheezCapTextOption(
