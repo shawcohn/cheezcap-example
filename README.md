@@ -1,7 +1,7 @@
 cheezcap-example
 ================
 
-This is the WordPress theme I created for the demo I gave at the WordPress NYC Meetup, [Managing your sites the CHEEZburger way](http://www.meetup.com/WordPressNYC/events/210724832). It demonstrates how to use the [Cheezburger Custom Administration Panel](https://github.com/tmtrademark/cheezcap) to run multiple sites off of the same theme.
+This is the WordPress theme I created for the demo I gave at the WordPress NYC Meetup, [Managing your sites the CHEEZburger way](http://www.meetup.com/WordPressNYC/events/210724832). It demonstrates how to use the [Cheezburger Custom Administration Panel](https://github.com/Automattic/cheezcap) to run multiple sites off of the same theme.
 
 Here are the [slides from the presentation](http://www.slideshare.net/BrianCohn1/cheezcap-presentation?qid=2fd65bad-47c8-4ee8-89d8-ced6516d3384&v=qf1&b=&from_search=3).
 
